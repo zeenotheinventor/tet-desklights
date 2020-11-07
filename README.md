@@ -1,2 +1,2 @@
 # tet-desklights
-Fancy lights innit?
+Control LED array remotely via bluetooth. Looks real pretty! <3
